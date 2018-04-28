@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>library</OutputType>
+    <TargetFrameworks>netcoreapp2.1;netcoreapp2.0</TargetFrameworks>
+    <Version>0.1.0</Version>
+    <PackageId>wk.TupleAwaiter</PackageId>
+  </PropertyGroup>
+</Project>
